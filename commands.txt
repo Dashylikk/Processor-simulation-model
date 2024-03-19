@@ -1,0 +1,9 @@
+mov 15
+mov R1
+mov -3
+mov R2
+add R1
+mov R3
+mov 65
+str lower
+exit
